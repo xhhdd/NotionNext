@@ -7,13 +7,13 @@ const BLOG = {
   THEME: process.env.NEXT_PUBLIC_THEME || 'hexo', // 主题， 支持 ['next','hexo',"fukasawa','medium','example'] @see https://preview.tangly1024.com
   THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || false, // 是否显示切换主题按钮
   LANG: 'zh-CN', // e.g 'zh-CN','en-US'  see /lib/lang.js for more.
-  SINCE: 2022, // e.g if leave this empty, current year will be used.
+  SINCE: 2021, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
-  AUTHOR: 'Aurality', // 作者
-  BIO: '音乐学习资源分享', // 作者简介
-  LINK: 'https://aurality.io', // 网站地址
-  KEYWORDS: 'Notion, 博客,音乐,aurality,资源', // 网站关键词 英文逗号隔开
+  AUTHOR: 'xhhdd', // 作者
+  BIO: '一名不精通算命的音乐生', // 作者简介
+  LINK: 'https://blog.xhhdd.cc', // 网站地址
+  KEYWORDS: 'Notion,博客,音乐,建站,计算机', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'dd@kv.mk', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
