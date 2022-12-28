@@ -11,9 +11,9 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
   AUTHOR: 'xhhdd', // 作者
-  BIO: '一名不精通算命的音乐生', // 作者简介
+  BIO: '一名不精通算命的音乐生 ', // 作者简介
   LINK: 'https://blog.xhhdd.cc', // 网站地址
-  KEYWORDS: 'Notion,博客,音乐,建站,计算机', // 网站关键词 英文逗号隔开
+  KEYWORDS: '计算机,Notion,博客,音乐,建站', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'dd@kv.mk', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
